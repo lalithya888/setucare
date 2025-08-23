@@ -1,0 +1,236 @@
+[
+  {
+    "emergency_id": 1,
+    "blood_group": "O Positive",
+    "compatible_donors": 2083,
+    "top_recommendations": [
+      {
+        "user_id": "\\x3b0b82c9c6a32b9f7ce5edb474785fc4e424bd369dc73d87aca89e806dff9574",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 80,
+        "ml_prediction_score": 97.97125948082446,
+        "composite_score": 109.55367708578139,
+        "donations_count": 1.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\x4b5ba96544cfd93a8782edfe945d2b5892e4bd202f3db4209af9c88592d7e15e",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 80,
+        "ml_prediction_score": 97.9361737750177,
+        "composite_score": 109.54595823050391,
+        "donations_count": 1.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\x0aeb5864aed4cd8bac9ea345c43fd67ace8c9945a886796d63d1ef3bf3ad9696",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 80,
+        "ml_prediction_score": 96.12909674776195,
+        "composite_score": 109.14840128450764,
+        "donations_count": 2.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\x8232f5ad29953a7f9f04684f4366d5596f7215ff80d31335e2a099b024a41aff",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 60,
+        "ml_prediction_score": 97.74731468978644,
+        "composite_score": 104.00440923175303,
+        "donations_count": 1.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\x8d145a584e0e5c45a3f1be631f8e04d37cf63437a07e80790b5affe54d68dcf4",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 100,
+        "reliability_score": 80,
+        "ml_prediction_score": 91.89593438899853,
+        "composite_score": 102.71710556557969,
+        "donations_count": 3.0,
+        "role": "Bridge Donor"
+      },
+      {
+        "user_id": "\\xead18df3abb7ae2b29456c8b36695da73054936c33ef8932dca8f85f7edafcf9",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 80,
+        "reliability_score": 80,
+        "ml_prediction_score": 97.93825845531147,
+        "composite_score": 98.54641686016853,
+        "donations_count": 1.0,
+        "role": "Guest"
+      },
+      {
+        "user_id": "\\xbb713641f9a6eac23a7d0eed145cf28ddc9efb9427edc0c0cce35fe1842869d5",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 100,
+        "reliability_score": 60,
+        "ml_prediction_score": 96.0171298416778,
+        "composite_score": 98.12376856516913,
+        "donations_count": 1.0,
+        "role": "Bridge Donor"
+      },
+      {
+        "user_id": "\\xe13e48bfa42c1fd95b203f67f1ff8758441f4381aead6b112b7a47d43165f358",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 100,
+        "reliability_score": 80,
+        "ml_prediction_score": 66.6197387009301,
+        "composite_score": 97.15634251420462,
+        "donations_count": 1.0,
+        "role": "Bridge Donor"
+      },
+      {
+        "user_id": "\\xbd314b759feaac033c4f4a4ed49031bf0bb7672118472153776c31d23660b77f",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 80,
+        "reliability_score": 40,
+        "ml_prediction_score": 92.2110076004729,
+        "composite_score": 86.28642167210405,
+        "donations_count": 3.0,
+        "role": "Guest"
+      },
+      {
+        "user_id": "\\x80706ba457f9814bc424de23402c22b5f58799e5204004d7a954a60501878872",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.634104074588602,
+        "composite_score": 85.3895028964095,
+        "donations_count": 0.0,
+        "role": "Emergency Donor"
+      }
+    ]
+  },
+  {
+    "emergency_id": 2,
+    "blood_group": "AB Positive",
+    "compatible_donors": 4978,
+    "top_recommendations": [
+      {
+        "user_id": "\\x6fb66c0cd7f96354803cff04fe1ffe5d9e7c1e0be45185fe1a972a15b0202fb6",
+        "blood_group": "A Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 80,
+        "ml_prediction_score": 97.97125948082446,
+        "composite_score": 99.59425189616489,
+        "donations_count": 1.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\x4b5ba96544cfd93a8782edfe945d2b5892e4bd202f3db4209af9c88592d7e15e",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 80,
+        "ml_prediction_score": 97.9361737750177,
+        "composite_score": 99.58723475500355,
+        "donations_count": 1.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\x02918736125acc9f0a49cde3f56ad356f25af29be01e1b54c1c8f1960cef77cb",
+        "blood_group": "A Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.634104074588602,
+        "composite_score": 77.62682081491772,
+        "donations_count": 0.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\xff79a464525c769307bb58f422cea05c1a38508232d9358935e396f2ead99d79",
+        "blood_group": "B Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.2687330747059337,
+        "composite_score": 77.55374661494119,
+        "donations_count": 0.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\x454e166cdf950862bdcfc96974c96817b62f145d5057e06a51e28e793fb08c47",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.2687330747059337,
+        "composite_score": 77.55374661494119,
+        "donations_count": 0.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\xc5dd4e9d8927301de75ee81fc53ebf061390b8e24d0c634ed76efe0818a3f2f2",
+        "blood_group": "AB Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.021436299266659818,
+        "composite_score": 77.50428725985333,
+        "donations_count": 0.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\xd9e7fea5bef6265914269edeae8ca11985dcb8c4f8e16ea4e1a0a1f579339bca",
+        "blood_group": "A Positive",
+        "distance_score": 100,
+        "availability_score": 120,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.021436299266659818,
+        "composite_score": 77.50428725985333,
+        "donations_count": 0.0,
+        "role": "Emergency Donor"
+      },
+      {
+        "user_id": "\\xb659e88cfdd82231075275b28c3016826357964cdd200dfc2c3d2e4438c9eba2",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 100,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.634104074588602,
+        "composite_score": 72.62682081491772,
+        "donations_count": 0.0,
+        "role": "Bridge Donor"
+      },
+      {
+        "user_id": "\\x208591b28ecd5d82365b59fbe494f74d6a541b63254fd989da3d3f3e44650f11",
+        "blood_group": "O Positive",
+        "distance_score": 100,
+        "availability_score": 100,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.634104074588602,
+        "composite_score": 72.62682081491772,
+        "donations_count": 0.0,
+        "role": "Bridge Donor"
+      },
+      {
+        "user_id": "\\xd9ef8c1dd5a03265df35c4af7178406499a31b963f013c48861c4acb78721fc2",
+        "blood_group": "O Positive",
+        "distance_score": 80,
+        "availability_score": 120,
+        "reliability_score": 70,
+        "ml_prediction_score": 0.021436299266659818,
+        "composite_score": 71.50428725985333,
+        "donations_count": 0.0,
+        "role": "Emergency Donor"
+      }
+    ]
+  }
+]

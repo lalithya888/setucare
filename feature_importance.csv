@@ -1,0 +1,13 @@
+feature,importance
+days_since_last_donation,0.35116668597057027
+cycle_of_donations,0.18748674976273494
+donations_till_date,0.15556998893961016
+donation_frequency_score,0.14612251551047878
+days_since_registration,0.07348413233922514
+calls_to_donations_ratio,0.03277356289065734
+gender_encoded,0.028191477192207923
+total_calls,0.007402997061185471
+blood_group_encoded,0.006663526004593683
+donor_type_encoded,0.005239136664629271
+role_encoded,0.004014810647480188
+frequency_in_days,0.0018844170166268485

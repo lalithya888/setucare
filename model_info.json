@@ -1,0 +1,22 @@
+{
+  "random_forest_accuracy": 0.9957356076759062,
+  "logistic_regression_accuracy": 0.9324804548685146,
+  "training_samples": 5626,
+  "test_samples": 1407,
+  "features_used": [
+    "donations_till_date",
+    "total_calls",
+    "calls_to_donations_ratio",
+    "frequency_in_days",
+    "cycle_of_donations",
+    "days_since_registration",
+    "days_since_last_donation",
+    "donation_frequency_score",
+    "blood_group_encoded",
+    "gender_encoded",
+    "role_encoded",
+    "donor_type_encoded"
+  ],
+  "positive_class_percentage": 8.94355182710081,
+  "model_training_date": "2025-08-23 21:15:23"
+}
